@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\bin\Debug\netcoreapp3.1\SoftUni Bar Income.exe
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\bin\Debug\netcoreapp3.1\SoftUni Bar Income.deps.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\bin\Debug\netcoreapp3.1\SoftUni Bar Income.runtimeconfig.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\bin\Debug\netcoreapp3.1\SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\bin\Debug\netcoreapp3.1\SoftUni Bar Income.dll
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\bin\Debug\netcoreapp3.1\SoftUni Bar Income.pdb
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\obj\Debug\netcoreapp3.1\SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\obj\Debug\netcoreapp3.1\SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\obj\Debug\netcoreapp3.1\SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\obj\Debug\netcoreapp3.1\SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\obj\Debug\netcoreapp3.1\SoftUni Bar Income.dll
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\obj\Debug\netcoreapp3.1\SoftUni Bar Income.pdb
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\ConsoleApp1\obj\Debug\netcoreapp3.1\SoftUni Bar Income.genruntimeconfig.cache
