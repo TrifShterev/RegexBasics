@@ -1,0 +1,12 @@
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\bin\Debug\netcoreapp3.1\Race.exe
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\bin\Debug\netcoreapp3.1\Race.deps.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\bin\Debug\netcoreapp3.1\Race.runtimeconfig.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\bin\Debug\netcoreapp3.1\Race.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\bin\Debug\netcoreapp3.1\Race.dll
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\bin\Debug\netcoreapp3.1\Race.pdb
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\obj\Debug\netcoreapp3.1\Race.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\obj\Debug\netcoreapp3.1\Race.AssemblyInfo.cs
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\obj\Debug\netcoreapp3.1\Race.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\obj\Debug\netcoreapp3.1\Race.dll
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\obj\Debug\netcoreapp3.1\Race.pdb
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\Race\obj\Debug\netcoreapp3.1\Race.genruntimeconfig.cache
